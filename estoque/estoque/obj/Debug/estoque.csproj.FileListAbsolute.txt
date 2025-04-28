@@ -1,0 +1,7 @@
+C:\Users\User01\source\repos\atividade array\estoque\estoque\bin\Debug\estoque.exe.config
+C:\Users\User01\source\repos\atividade array\estoque\estoque\bin\Debug\estoque.exe
+C:\Users\User01\source\repos\atividade array\estoque\estoque\bin\Debug\estoque.pdb
+C:\Users\User01\source\repos\atividade array\estoque\estoque\obj\Debug\estoque.csproj.AssemblyReference.cache
+C:\Users\User01\source\repos\atividade array\estoque\estoque\obj\Debug\estoque.csproj.CoreCompileInputs.cache
+C:\Users\User01\source\repos\atividade array\estoque\estoque\obj\Debug\estoque.exe
+C:\Users\User01\source\repos\atividade array\estoque\estoque\obj\Debug\estoque.pdb

@@ -1,0 +1,7 @@
+C:\Users\User01\source\repos\atividade array\amarzena_salarios\amarzena_salarios\obj\Debug\amarzena_salarios.csproj.AssemblyReference.cache
+C:\Users\User01\source\repos\atividade array\amarzena_salarios\amarzena_salarios\obj\Debug\amarzena_salarios.csproj.CoreCompileInputs.cache
+C:\Users\User01\source\repos\atividade array\amarzena_salarios\amarzena_salarios\bin\Debug\amarzena_salarios.exe.config
+C:\Users\User01\source\repos\atividade array\amarzena_salarios\amarzena_salarios\bin\Debug\amarzena_salarios.exe
+C:\Users\User01\source\repos\atividade array\amarzena_salarios\amarzena_salarios\bin\Debug\amarzena_salarios.pdb
+C:\Users\User01\source\repos\atividade array\amarzena_salarios\amarzena_salarios\obj\Debug\amarzena_salarios.exe
+C:\Users\User01\source\repos\atividade array\amarzena_salarios\amarzena_salarios\obj\Debug\amarzena_salarios.pdb

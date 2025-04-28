@@ -1,0 +1,7 @@
+C:\Users\User01\source\repos\atividade array\Temperatura da semana\Temperatura da semana\bin\Debug\Temperatura da semana.exe.config
+C:\Users\User01\source\repos\atividade array\Temperatura da semana\Temperatura da semana\bin\Debug\Temperatura da semana.exe
+C:\Users\User01\source\repos\atividade array\Temperatura da semana\Temperatura da semana\bin\Debug\Temperatura da semana.pdb
+C:\Users\User01\source\repos\atividade array\Temperatura da semana\Temperatura da semana\obj\Debug\Temperatura da semana.csproj.AssemblyReference.cache
+C:\Users\User01\source\repos\atividade array\Temperatura da semana\Temperatura da semana\obj\Debug\Temperatura da semana.csproj.CoreCompileInputs.cache
+C:\Users\User01\source\repos\atividade array\Temperatura da semana\Temperatura da semana\obj\Debug\Temperatura da semana.exe
+C:\Users\User01\source\repos\atividade array\Temperatura da semana\Temperatura da semana\obj\Debug\Temperatura da semana.pdb

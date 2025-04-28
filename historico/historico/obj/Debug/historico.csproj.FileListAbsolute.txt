@@ -1,0 +1,7 @@
+C:\Users\User01\source\repos\atividade array\historico\historico\bin\Debug\historico.exe.config
+C:\Users\User01\source\repos\atividade array\historico\historico\bin\Debug\historico.exe
+C:\Users\User01\source\repos\atividade array\historico\historico\bin\Debug\historico.pdb
+C:\Users\User01\source\repos\atividade array\historico\historico\obj\Debug\historico.csproj.AssemblyReference.cache
+C:\Users\User01\source\repos\atividade array\historico\historico\obj\Debug\historico.csproj.CoreCompileInputs.cache
+C:\Users\User01\source\repos\atividade array\historico\historico\obj\Debug\historico.exe
+C:\Users\User01\source\repos\atividade array\historico\historico\obj\Debug\historico.pdb

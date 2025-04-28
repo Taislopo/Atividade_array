@@ -1,0 +1,7 @@
+C:\Users\User01\source\repos\atividade array\pares_impares\pares_impares\bin\Debug\pares_impares.exe.config
+C:\Users\User01\source\repos\atividade array\pares_impares\pares_impares\bin\Debug\pares_impares.exe
+C:\Users\User01\source\repos\atividade array\pares_impares\pares_impares\bin\Debug\pares_impares.pdb
+C:\Users\User01\source\repos\atividade array\pares_impares\pares_impares\obj\Debug\pares_impares.csproj.AssemblyReference.cache
+C:\Users\User01\source\repos\atividade array\pares_impares\pares_impares\obj\Debug\pares_impares.csproj.CoreCompileInputs.cache
+C:\Users\User01\source\repos\atividade array\pares_impares\pares_impares\obj\Debug\pares_impares.exe
+C:\Users\User01\source\repos\atividade array\pares_impares\pares_impares\obj\Debug\pares_impares.pdb

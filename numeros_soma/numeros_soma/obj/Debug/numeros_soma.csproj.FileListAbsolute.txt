@@ -1,0 +1,7 @@
+C:\Users\User01\source\repos\atividade array\numeros_soma\numeros_soma\bin\Debug\numeros_soma.exe.config
+C:\Users\User01\source\repos\atividade array\numeros_soma\numeros_soma\bin\Debug\numeros_soma.exe
+C:\Users\User01\source\repos\atividade array\numeros_soma\numeros_soma\bin\Debug\numeros_soma.pdb
+C:\Users\User01\source\repos\atividade array\numeros_soma\numeros_soma\obj\Debug\numeros_soma.csproj.AssemblyReference.cache
+C:\Users\User01\source\repos\atividade array\numeros_soma\numeros_soma\obj\Debug\numeros_soma.csproj.CoreCompileInputs.cache
+C:\Users\User01\source\repos\atividade array\numeros_soma\numeros_soma\obj\Debug\numeros_soma.exe
+C:\Users\User01\source\repos\atividade array\numeros_soma\numeros_soma\obj\Debug\numeros_soma.pdb
